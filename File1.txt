@@ -1,4 +1,4 @@
-untestinh file
+untesting file
 Testing line
 >>>>>>> 433c309 (test)
 Commit test
