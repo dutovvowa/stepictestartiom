@@ -1,4 +1,6 @@
 untestinh file
+Testing line
+>>>>>>> 433c309 (test)
 Commit test
 456
 789.
